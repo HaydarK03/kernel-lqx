@@ -1,2 +1,2 @@
-# lab-kernels
-Laboratorium pengembangan kernel untuk operasi sistem libra
+# Kernel-Liquorix
+Kernel development laboratory for the libra operating system
